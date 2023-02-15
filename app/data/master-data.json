@@ -1,0 +1,16 @@
+{
+    "EN": {
+      "country": [
+        "Singapore",
+        "Malaysia",
+        "United Arab Emirates",
+        "United States of America"
+      ],
+      "currency": [
+        "SGD",
+        "MYR",
+        "AED",
+        "USD"
+      ]
+  }
+}
